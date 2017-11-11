@@ -22,7 +22,7 @@
   "dependencies": {
     "jest-diff": "test",
     "jest-snapshot": "test",
-    "pretty-format": "^20.0.3",
+    "pretty-format": "^21.2.1",
     "strip-ansi": "^4.0.0"
   },
   "devDependencies": {
@@ -31,10 +31,10 @@
     "babel-preset-flow": "^6.23.0",
     "babel-preset-react": "^6.24.1",
     "eslint": "^4.3.0",
-    "eslint-config-callstack-io": "^0.4.0",
-    "flow-bin": "^0.51.0",
+    "eslint-config-callstack-io": "^1.0.1",
+    "flow-bin": "^0.59.0",
     "jest": "test",
-    "react": "^15.6.1",
-    "react-test-renderer": "^15.6.1"
+    "react": "^16.1.0",
+    "react-test-renderer": "^16.1.0"
   }
 }
